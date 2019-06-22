@@ -4,7 +4,8 @@
   "description": "Unit Test with Jest and Mock",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --exec babel-node src/index.js"
+    "dev": "nodemon --exec babel-node src/index.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
