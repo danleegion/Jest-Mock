@@ -1,0 +1,41 @@
+{
+  "name": "jest-mock",
+  "version": "1.0.0",
+  "description": "Unit Test with Jest and Mock",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danleegion/Jest-Mock.git"
+  },
+  "keywords": [
+    "Jest",
+    "Mock",
+    "Unit",
+    "Test",
+    "NodeJs"
+  ],
+  "author": "Daniel Lee Cher Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danleegion/Jest-Mock/issues"
+  },
+  "homepage": "https://github.com/danleegion/Jest-Mock#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/node": "^7.4.5",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/plugin-transform-runtime": "^7.4.4",
+    "@babel/polyfill": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0"
+  }
+}
