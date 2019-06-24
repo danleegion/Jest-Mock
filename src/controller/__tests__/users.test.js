@@ -1,5 +1,5 @@
 import { getUsers, getUserById } from '../user';
-const url = 'https://jsonplaceholder.typicode.com/users/';
+const url = 'https://www.mockurl.com/users/';
 describe('Test Users', () => {
   it('should return a list of user', async () => {
     const result = await getUsers(url);
