@@ -31,14 +31,14 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "@babel/cli": "^7.6.4",
-    "@babel/core": "^7.6.4",
-    "@babel/node": "^7.6.3",
-    "@babel/plugin-proposal-class-properties": "^7.5.5",
-    "@babel/plugin-transform-runtime": "^7.6.2",
-    "@babel/polyfill": "^7.6.0",
-    "@babel/preset-env": "^7.6.3",
-    "@types/jest": "^24.0.19",
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/node": "^7.7.4",
+    "@babel/plugin-proposal-class-properties": "^7.7.4",
+    "@babel/plugin-transform-runtime": "^7.7.6",
+    "@babel/polyfill": "^7.7.0",
+    "@babel/preset-env": "^7.7.6",
+    "@types/jest": "^24.0.23",
     "babel-eslint": "^10.0.3",
     "eslint": "^5.16.0",
     "jest": "^24.9.0"
