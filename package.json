@@ -28,7 +28,7 @@
   "homepage": "https://github.com/danleegion/Jest-Mock#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
